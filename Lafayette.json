@@ -1,4 +1,114 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Lafayette College",
+    "abbreviation": "Lafayette",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "0014T000006HrNxQAK",
+    "programName": "Lafayette Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.lafayette.edu/terms-of-use/",
+    "registrationMessage": "Registration is now open.",
+    "credits": "<b style='color:red;'>null<b/>",
+    "startDate": "<b style='color:red;'>null<b/>",
+    "endDate": "<b style='color:red;'>null<b/>"
+  },
+  {
+    "item": "about",
+    "schoolname": "Lafayette College",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "Lafayette",
+    "phone": "(610) 890-4334",
+    "credits": "<b style='color:red;'>null<b/>",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "<b style='color:red;'>null<b/>",
+    "abbreviation": "Lafayette",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Lafayette College",
+    "trackTitle": "Digital Marketing Track",
+    "credits": null,
+    "abbreviation": "Lafayette",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "<b style='color:red;'>null<b/>",
+    "endDate": "<b style='color:red;'>null<b/>"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Lafayette College",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": null,
+    "abbreviation": "Lafayette",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "<b style='color:red;'>null<b/>",
+    "endDate": "<b style='color:red;'>null<b/>"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Lafayette College",
+    "trackTitle": "Data Analytics Track",
+    "credits": null,
+    "abbreviation": "Lafayette",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "<b style='color:red;'>null<b/>",
+    "endDate": "<b style='color:red;'>null<b/>"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Lafayette College",
+    "trackTitle": "Coding for Data Track",
+    "credits": null,
+    "abbreviation": "Lafayette",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "<b style='color:red;'>null<b/>",
+    "endDate": "<b style='color:red;'>null<b/>"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Lafayette College",
+    "trackTitle": "Career Rotation Track",
+    "credits": null,
+    "abbreviation": "Lafayette",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "<b style='color:red;'>null<b/>",
+    "endDate": "<b style='color:red;'>null<b/>"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Lafayette Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(610) 890-4334",
+    "abbreviation": "Lafayette"
+  },
+  {
+    "item": "begin",
+    "credits": "<b style='color:red;'>null<b/>",
+    "abbreviation": "Lafayette",
+    "phone": "(610) 890-4334"
+  }
+]
